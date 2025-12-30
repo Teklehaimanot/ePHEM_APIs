@@ -1,1 +1,5 @@
-This repository contains a collection of essential APIs used to enable interoperability with the ePHEM (Electronic Public Health Emergency Management) application. The APIs support creating signals from external data sources, fetching all signals, and retrieving signals filtered by aetiology and district. The repository also provides step-by-step instructions for running the application locally, including setting up a Python virtual environment and executing individual API services by running the corresponding Python files (e.g., python index.py, python <api_file>.py).
+This repository contains a collection of essential APIs used to enable interoperability with the ePHEM (Electronic Public Health Emergency Management) application. 
+
+The APIs support creating signals from external data sources, fetching all signals, and retrieving signals filtered by aetiology and district. 
+
+The repository also provides step-by-step instructions for running the application locally, including setting up a Python virtual environment and executing individual API services by running the corresponding Python files (e.g., python index.py, python <api_file>.py).
