@@ -1,0 +1,1133 @@
+[
+    {
+        "id": 74,
+        "created_by": [
+            2,
+            "ADMIN, System"
+        ],
+        "signal_id": [
+            79,
+            "Sg00079, suspected, Measles, [GAMBELLA], [ITANG SPECIAL WOREDA], February, 2025"
+        ],
+        "source_type": [
+            29,
+            "Internal Communication"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Internal Communication"
+    },
+    {
+        "id": 75,
+        "created_by": [
+            654,
+            "KAYIWA, Joshua"
+        ],
+        "signal_id": [
+            80,
+            "Sg00080, , Hepatitis A, [HARARI], [], February, 2025"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 76,
+        "created_by": [
+            645,
+            "FUFA, Adisu Daba"
+        ],
+        "signal_id": [
+            81,
+            "Sg00081, , Dengue Fever, [DIRE DAWA], [], November, 2023"
+        ],
+        "source_type": [
+            34,
+            "PHC"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-02-16",
+        "attachment_ids": [],
+        "source_type_name": "PHC"
+    },
+    {
+        "id": 78,
+        "created_by": [
+            647,
+            "DEMEKE, Akalu"
+        ],
+        "signal_id": [
+            84,
+            "Sg00084, Earthquake, Earthquake, [AFAR], [], February, 2025"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-02-17",
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 82,
+        "created_by": [
+            2,
+            "ADMIN, System"
+        ],
+        "signal_id": [
+            90,
+            "Sg00090, wqer, Dengue Fever, [DIRE DAWA], [], February, 2025"
+        ],
+        "source_type": [
+            29,
+            "Internal Communication"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Internal Communication"
+    },
+    {
+        "id": 83,
+        "created_by": [
+            644,
+            "BELACHEW, Habtamu"
+        ],
+        "signal_id": [
+            92,
+            "Sg00092, , Food poisoning, [AFAR], [ZONE 2], February, 2025"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 89,
+        "created_by": [
+            547,
+            "ASHEBIR, Ermias"
+        ],
+        "signal_id": [
+            102,
+            "Sg00102, confirmed cases of ebola, Ebola Virus Disease (EVD), [SNNP], [GAMO], February, 2025"
+        ],
+        "source_type": [
+            31,
+            "WHO"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-02-18",
+        "attachment_ids": [],
+        "source_type_name": "WHO"
+    },
+    {
+        "id": 90,
+        "created_by": [
+            646,
+            "Hunde Merga"
+        ],
+        "signal_id": [
+            103,
+            "Sg00103, Cholera, Cholera, [AMHARA], [], February, 2025"
+        ],
+        "source_type": [
+            40,
+            "TV/Radio"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-02-18",
+        "attachment_ids": [],
+        "source_type_name": "TV/Radio"
+    },
+    {
+        "id": 95,
+        "created_by": [
+            645,
+            "FUFA, Adisu Daba"
+        ],
+        "signal_id": false,
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 96,
+        "created_by": [
+            645,
+            "FUFA, Adisu Daba"
+        ],
+        "signal_id": [
+            81,
+            "Sg00081, , Dengue Fever, [DIRE DAWA], [], November, 2023"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 98,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            241,
+            "Sg00223, PoE signal, Viral Hemorrhagic  Fever (VHF), [ADDIS ABABA], [BOLE SUB CITY], February, 2025"
+        ],
+        "source_type": [
+            36,
+            "POE"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "POE"
+    },
+    {
+        "id": 100,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            244,
+            "Sg00226, measle, Dengue Fever, [ADDIS ABABA], [AKAKI KALITY SUB CITY], March, 2025"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 105,
+        "created_by": [
+            756,
+            "GINDOLA, Yamlak"
+        ],
+        "signal_id": [
+            254,
+            "Sg00236, suspected cases of measles from A/ketema, Measles, [], [], April, 2025"
+        ],
+        "source_type": [
+            38,
+            "Hotline"
+        ],
+        "name": false,
+        "source_phone": "0934653152",
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Hotline"
+    },
+    {
+        "id": 106,
+        "created_by": [
+            749,
+            "GEDEFAW, Ergetu"
+        ],
+        "signal_id": [
+            255,
+            "Sg00237, Measles from yeka sub city wereda 5, Measles, [ADDIS ABABA], [YEKA SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            38,
+            "Hotline"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-04-09",
+        "attachment_ids": [],
+        "source_type_name": "Hotline"
+    },
+    {
+        "id": 107,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            256,
+            "Sg00238, suspect cases of measels in yeka subcity,woreda 5, Measles, [ADDIS ABABA], [YEKA SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            38,
+            "Hotline"
+        ],
+        "name": false,
+        "source_phone": "0938905804890",
+        "source_address": false,
+        "publication_date": "2025-04-09",
+        "attachment_ids": [],
+        "source_type_name": "Hotline"
+    },
+    {
+        "id": 108,
+        "created_by": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_id": [
+            257,
+            "Sg00239, suspect cholera case in abado, Measles, [ADDIS ABABA], [KIRKOS SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            38,
+            "Hotline"
+        ],
+        "name": false,
+        "source_phone": "+2519",
+        "source_address": false,
+        "publication_date": "2025-04-01",
+        "attachment_ids": [],
+        "source_type_name": "Hotline"
+    },
+    {
+        "id": 109,
+        "created_by": [
+            756,
+            "GINDOLA, Yamlak"
+        ],
+        "signal_id": [
+            258,
+            "Sg00240, , Measles, [], [], April, 2025"
+        ],
+        "source_type": [
+            38,
+            "Hotline"
+        ],
+        "name": false,
+        "source_phone": "0934527512",
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Hotline"
+    },
+    {
+        "id": 110,
+        "created_by": [
+            749,
+            "GEDEFAW, Ergetu"
+        ],
+        "signal_id": [
+            260,
+            "Sg00242, Measles suspect cases from yeka sub city wereda 5, Measles, [ADDIS ABABA], [YEKA SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            38,
+            "Hotline"
+        ],
+        "name": false,
+        "source_phone": "0954625852",
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Hotline"
+    },
+    {
+        "id": 111,
+        "created_by": [
+            749,
+            "GEDEFAW, Ergetu"
+        ],
+        "signal_id": [
+            261,
+            "Sg00243, suspected Leishmaniasis cases from Diredawa PoE, Dengue Fever, [DIRE DAWA], [], April, 2025"
+        ],
+        "source_type": [
+            36,
+            "POE"
+        ],
+        "name": false,
+        "source_phone": "0915502560",
+        "source_address": false,
+        "publication_date": "2025-04-05",
+        "attachment_ids": [],
+        "source_type_name": "POE"
+    },
+    {
+        "id": 112,
+        "created_by": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_id": [
+            262,
+            "Sg00244, Confirmed Leishmaniasis , Diredewa, unknown, [DIRE DAWA], [DIRE DAWA], April, 2025"
+        ],
+        "source_type": [
+            35,
+            "Hospital"
+        ],
+        "name": false,
+        "source_phone": "-0922482471",
+        "source_address": false,
+        "publication_date": "2025-04-05",
+        "attachment_ids": [],
+        "source_type_name": "Hospital"
+    },
+    {
+        "id": 113,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            265,
+            "Sg00247, thsmdm, Measles, [DIRE DAWA, ADDIS ABABA], [KOLFE SUBCITY], April, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-04-09",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 114,
+        "created_by": [
+            755,
+            "BEYENE, Mihretu"
+        ],
+        "signal_id": [
+            266,
+            "Sg00248, Suspected/Cholera case, Cholera, [SNNP], [ZONE 1], February, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": "None",
+        "source_address": false,
+        "publication_date": "2025-03-03",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 115,
+        "created_by": [
+            759,
+            "Mengesha Asamene"
+        ],
+        "signal_id": [
+            267,
+            "Sg00249, Suspected |Cholera cases, Cholera, [GAMBELLA], [], March, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": "none",
+        "source_address": false,
+        "publication_date": "2025-03-03",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 116,
+        "created_by": [
+            755,
+            "BEYENE, Mihretu"
+        ],
+        "signal_id": [
+            266,
+            "Sg00248, Suspected/Cholera case, Cholera, [SNNP], [ZONE 1], February, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": "None ",
+        "source_address": false,
+        "publication_date": "2025-03-03",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 117,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            268,
+            "Sg00250, suspect Cholera in afar, Cholera, [AFAR], [ZONE 5], April, 2025"
+        ],
+        "source_type": [
+            35,
+            "Hospital"
+        ],
+        "name": false,
+        "source_phone": "09208u7409",
+        "source_address": false,
+        "publication_date": "2025-04-09",
+        "attachment_ids": [],
+        "source_type_name": "Hospital"
+    },
+    {
+        "id": 118,
+        "created_by": [
+            767,
+            "TSEHAY, Lina Yezhalem"
+        ],
+        "signal_id": [
+            269,
+            "Sg00251, Suspected Cholera case in Gambella region, Cholera, [GAMBELLA], [GAMBELLA TOWN], March, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-03-03",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 119,
+        "created_by": [
+            744,
+            "TESEMA, Merihatsidik Tesema"
+        ],
+        "signal_id": [
+            270,
+            "Sg00252, Confirmed Leishmaniasis, unknown, [DIRE DAWA], [DIRE DAWA], April, 2025"
+        ],
+        "source_type": [
+            35,
+            "Hospital"
+        ],
+        "name": false,
+        "source_phone": "+2519",
+        "source_address": "Diredawa",
+        "publication_date": "2025-04-05",
+        "attachment_ids": [],
+        "source_type_name": "Hospital"
+    },
+    {
+        "id": 120,
+        "created_by": [
+            744,
+            "TESEMA, Merihatsidik Tesema"
+        ],
+        "signal_id": [
+            271,
+            "Sg00253, , unknown, [AMHARA], [], April, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": "+25199",
+        "source_address": "Diredawa",
+        "publication_date": "2025-04-12",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 121,
+        "created_by": [
+            758,
+            "DESALEGN, Befikadu Ejigu"
+        ],
+        "signal_id": [
+            272,
+            "Sg00254, confirmed leishmaniasis, Ebola Virus Disease (EVD), [ADDIS ABABA], [ADDIS KETEMA SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            38,
+            "Hotline"
+        ],
+        "name": false,
+        "source_phone": "0934174345",
+        "source_address": false,
+        "publication_date": "2025-04-05",
+        "attachment_ids": [],
+        "source_type_name": "Hotline"
+    },
+    {
+        "id": 122,
+        "created_by": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_id": [
+            275,
+            "Sg00257, Covid 19, COVID-19, [ADDIS ABABA], [], April, 2025"
+        ],
+        "source_type": [
+            35,
+            "Hospital"
+        ],
+        "name": false,
+        "source_phone": "0901141894",
+        "source_address": false,
+        "publication_date": "2025-04-08",
+        "attachment_ids": [],
+        "source_type_name": "Hospital"
+    },
+    {
+        "id": 123,
+        "created_by": [
+            758,
+            "DESALEGN, Befikadu Ejigu"
+        ],
+        "signal_id": [
+            276,
+            "Sg00258, confirmed case leishmaniasis, unknown, [DIRE DAWA], [DIRE DAWA], April, 2025"
+        ],
+        "source_type": [
+            34,
+            "PHC"
+        ],
+        "name": false,
+        "source_phone": "0911674523",
+        "source_address": false,
+        "publication_date": "2025-04-09",
+        "attachment_ids": [],
+        "source_type_name": "PHC"
+    },
+    {
+        "id": 124,
+        "created_by": [
+            761,
+            "BULTI, Sara"
+        ],
+        "signal_id": [
+            277,
+            "Sg00259, 1st, Ebola Virus Disease (EVD), [ADDIS ABABA], [ARADA SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            35,
+            "Hospital"
+        ],
+        "name": false,
+        "source_phone": "0923799767",
+        "source_address": false,
+        "publication_date": "2025-03-30",
+        "attachment_ids": [],
+        "source_type_name": "Hospital"
+    },
+    {
+        "id": 125,
+        "created_by": [
+            770,
+            "GONFA, Dereje Daba"
+        ],
+        "signal_id": [
+            278,
+            "Sg00260, Earthquake causing massive destruction in Afar, Earthquake, [AFAR], [ZONE 3], February, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-02-25",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 126,
+        "created_by": [
+            744,
+            "TESEMA, Merihatsidik Tesema"
+        ],
+        "signal_id": [
+            281,
+            "Sg00263, human illness and deaths, Food poisoning, [SNNP], [SOUTH OMO], April, 2025"
+        ],
+        "source_type": [
+            39,
+            "Community Based Surveillance CBS"
+        ],
+        "name": false,
+        "source_phone": "8335",
+        "source_address": "south west",
+        "publication_date": "2025-04-07",
+        "attachment_ids": [],
+        "source_type_name": "Community Based Surveillance CBS"
+    },
+    {
+        "id": 127,
+        "created_by": [
+            744,
+            "TESEMA, Merihatsidik Tesema"
+        ],
+        "signal_id": [
+            282,
+            "Sg00264, human illness, Food poisoning, [SNNP], [SOUTH OMO], April, 2025"
+        ],
+        "source_type": [
+            34,
+            "PHC"
+        ],
+        "name": false,
+        "source_phone": "8335",
+        "source_address": "SNNP/SOUTH OMMO",
+        "publication_date": "2025-04-07",
+        "attachment_ids": [],
+        "source_type_name": "PHC"
+    },
+    {
+        "id": 128,
+        "created_by": [
+            759,
+            "Mengesha Asamene"
+        ],
+        "signal_id": [
+            284,
+            "Sg00266, update infohghv, Cholera, [GAMBELLA], [], April, 2025"
+        ],
+        "source_type": [
+            34,
+            "PHC"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-04-09",
+        "attachment_ids": [],
+        "source_type_name": "PHC"
+    },
+    {
+        "id": 129,
+        "created_by": [
+            763,
+            "TUFA, Hailu"
+        ],
+        "signal_id": [
+            285,
+            "Sg00267, Food poisoning, Food poisoning, [OROMIYA], [ADAMA SPECIAL ZONE], April, 2025"
+        ],
+        "source_type": [
+            35,
+            "Hospital"
+        ],
+        "name": false,
+        "source_phone": "0912121212",
+        "source_address": false,
+        "publication_date": "2025-04-07",
+        "attachment_ids": [],
+        "source_type_name": "Hospital"
+    },
+    {
+        "id": 130,
+        "created_by": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_id": [
+            286,
+            "Sg00268, Dengue fever, Dengue Fever, [AFAR], [ZONE 2], April, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": "0901141894",
+        "source_address": false,
+        "publication_date": "2025-04-10",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 131,
+        "created_by": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_id": [
+            287,
+            "Sg00269, yellow fever, Yellow Fever Virus (YFV), [SNNP], [AMARO], April, 2025"
+        ],
+        "source_type": [
+            39,
+            "Community Based Surveillance CBS"
+        ],
+        "name": false,
+        "source_phone": "0901141894",
+        "source_address": false,
+        "publication_date": "2025-04-10",
+        "attachment_ids": [],
+        "source_type_name": "Community Based Surveillance CBS"
+    },
+    {
+        "id": 132,
+        "created_by": [
+            647,
+            "DEMEKE, Akalu"
+        ],
+        "signal_id": [
+            288,
+            "Sg00270, Flooding, Food poisoning, [ADDIS ABABA], [AKAKI KALITY SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": "091111111111",
+        "source_address": false,
+        "publication_date": "2025-04-10",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 133,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            289,
+            "Sg00271, flooding, Floods, [ADDIS ABABA], [AKAKI KALITY SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-04-09",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 134,
+        "created_by": [
+            754,
+            "DEREJE, Wendu Dereje"
+        ],
+        "signal_id": [
+            291,
+            "Sg00273, , Hepatitis A, [BENESHANGUL GUMUZ, ADDIS ABABA], [BOLE SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            35,
+            "Hospital"
+        ],
+        "name": false,
+        "source_phone": "0934562812",
+        "source_address": false,
+        "publication_date": "2025-04-11",
+        "attachment_ids": [],
+        "source_type_name": "Hospital"
+    },
+    {
+        "id": 135,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            292,
+            "Sg00274, hj, Measles, [GAMBELLA], [NUER], April, 2025"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-04-18",
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 136,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            293,
+            "Sg00275, , Cholera, [AFAR, ADDIS ABABA], [KOLFE SUBCITY], April, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-04-10",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 137,
+        "created_by": [
+            754,
+            "DEREJE, Wendu Dereje"
+        ],
+        "signal_id": [
+            294,
+            "Sg00276, , Dengue Fever, [DIRE DAWA], [], April, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 138,
+        "created_by": [
+            754,
+            "DEREJE, Wendu Dereje"
+        ],
+        "signal_id": [
+            294,
+            "Sg00276, , Dengue Fever, [DIRE DAWA], [], April, 2025"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 139,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            295,
+            "Sg00277, bhj, Measles, [ADDIS ABABA], [ADDIS KETEMA SUB CITY], April, 2025"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-04-10",
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 140,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            296,
+            "Sg00278, tyu, Measles, [AMHARA], [AWI], May, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": false,
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 141,
+        "created_by": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_id": [
+            298,
+            "Sg00280, , Anthrax (Animal), [AMHARA], [], May, 2025"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-05-13",
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    },
+    {
+        "id": 142,
+        "created_by": [
+            647,
+            "DEMEKE, Akalu"
+        ],
+        "signal_id": [
+            306,
+            "Sg00288, Ebola, Hepatitis A, [AFAR, AMHARA], [ZONE 2, NORTH SHEWA], May, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": "facebook.com/fafafaf",
+        "publication_date": "2025-05-29",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 143,
+        "created_by": [
+            652,
+            "WORKU, Zemene"
+        ],
+        "signal_id": [
+            307,
+            "Sg00289, Suspected MPox Case Reported in North Wollo,Amhara, MPox Virus (MPox), [AMHARA, OROMIYA], [], May, 2025"
+        ],
+        "source_type": [
+            35,
+            "Hospital"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-05-30",
+        "attachment_ids": [],
+        "source_type_name": "Hospital"
+    },
+    {
+        "id": 144,
+        "created_by": [
+            652,
+            "WORKU, Zemene"
+        ],
+        "signal_id": [
+            309,
+            "Sg00291, , MPox Virus (MPox), [AMHARA], [], May, 2025"
+        ],
+        "source_type": [
+            31,
+            "WHO"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": "https://extranet.who.int/gpln/en/Account/Login?returnUrl=%252fgpln%252fen%252fDocument",
+        "publication_date": "2025-05-30",
+        "attachment_ids": [],
+        "source_type_name": "WHO"
+    },
+    {
+        "id": 146,
+        "created_by": [
+            746,
+            "ASMAMAW, Mesfin Asmamaw"
+        ],
+        "signal_id": [
+            311,
+            "Sg00293, cluster of the Fever and rash cases in Addis Ababa, Measles, [ADDIS ABABA], [ARADA SUB CITY], June, 2025"
+        ],
+        "source_type": [
+            28,
+            "Social Media"
+        ],
+        "name": false,
+        "source_phone": "8333",
+        "source_address": false,
+        "publication_date": "2025-06-11",
+        "attachment_ids": [],
+        "source_type_name": "Social Media"
+    },
+    {
+        "id": 147,
+        "created_by": [
+            647,
+            "DEMEKE, Akalu"
+        ],
+        "signal_id": [
+            312,
+            "Sg00294, testing, Viral Hemorrhagic  Fever (VHF), [ADDIS ABABA], [GULELE SUB CITY], June, 2025"
+        ],
+        "source_type": [
+            27,
+            "Open Source Media"
+        ],
+        "name": false,
+        "source_phone": false,
+        "source_address": false,
+        "publication_date": "2025-06-10",
+        "attachment_ids": [],
+        "source_type_name": "Open Source Media"
+    }
+]

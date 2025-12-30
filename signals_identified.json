@@ -1,0 +1,3349 @@
+[
+    {
+        "id": 80,
+        "signal_seq": "Sg00080",
+        "name": "Sg00080, , Hepatitis A, [HARARI], [], February, 2025",
+        "title_prefix": "null",
+        "description": "<p>\\zx</p>",
+        "incident_date": "2025-02-04 09:11:28",
+        "report_date": "2025-02-17 09:11:27",
+        "create_date": "2025-02-17 09:12:01",
+        "active": true,
+        "user_id": [
+            654,
+            "KAYIWA, Joshua"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            6,
+            "Closed"
+        ],
+        "signal_stage_state_name": "closed",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "null",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "closed",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": true,
+        "was_closed_date": "2025-02-17 09:45:59",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "HARARI",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Hepatitis A",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            83,
+            "Epidemics and pandemics"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-02-17 09:13:31",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "closed",
+        "date_closed": "2025-02-17 09:45:56"
+    },
+    {
+        "id": 81,
+        "signal_seq": "Sg00081",
+        "name": "Sg00081, , Dengue Fever, [DIRE DAWA], [], November, 2023",
+        "title_prefix": "null",
+        "description": "<p>Test shsgdg ashahs</p>",
+        "incident_date": "2023-11-09 09:12:10",
+        "report_date": "2025-02-17 09:12:06",
+        "create_date": "2025-02-17 09:14:21",
+        "active": true,
+        "user_id": [
+            645,
+            "FUFA, Adisu Daba"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            6,
+            "Closed"
+        ],
+        "signal_stage_state_name": "closed",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "250",
+        "fatalities": "1",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "closed",
+        "was_event": true,
+        "was_under_verification": "null",
+        "was_closed": true,
+        "was_closed_date": "2025-04-09 08:04:16",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "DIRE DAWA",
+        "source_country_id": [
+            11,
+            "AMERICAN SAMOA"
+        ],
+        "aetiology_id_Related": "Dengue Fever",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            82,
+            "Emerging diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-02-21 18:07:16",
+        "verification_source_id": [
+            10,
+            "partner- WHO- WN"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            1,
+            "Unknown Illness"
+        ],
+        "is_event_closed": "closed",
+        "date_closed": "2025-04-09 08:02:58"
+    },
+    {
+        "id": 84,
+        "signal_seq": "Sg00084",
+        "name": "Sg00084, Earthquake, Earthquake, [AFAR], [], February, 2025",
+        "title_prefix": "Earthquake",
+        "description": "<p>gfdhgg</p>",
+        "incident_date": "2025-02-17 09:13:47",
+        "report_date": "2025-02-17 09:11:59",
+        "create_date": "2025-02-17 09:16:02",
+        "active": true,
+        "user_id": [
+            647,
+            "DEMEKE, Akalu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "1000",
+        "fatalities": "15",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AFAR",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Earthquake",
+        "general_hazard_id": [
+            10,
+            "GEOPHYSICAL"
+        ],
+        "specific_hazard_id": [
+            55,
+            "Earthquake [G1]"
+        ],
+        "health_facilities_affected": "2",
+        "health_care_workers_affected": "null",
+        "houses_affected": "20",
+        "animals_affected": "200",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-02-17 09:17:57",
+        "verification_source_id": [
+            7,
+            "Other Ministries"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 90,
+        "signal_seq": "Sg00090",
+        "name": "Sg00090, wqer, Dengue Fever, [DIRE DAWA], [], February, 2025",
+        "title_prefix": "wqer",
+        "description": "<p>qewr</p>",
+        "incident_date": "2025-02-19 08:45:14",
+        "report_date": "2025-02-17 11:45:14",
+        "create_date": "2025-02-17 11:45:31",
+        "active": true,
+        "user_id": [
+            2,
+            "ADMIN, System"
+        ],
+        "signal_type": "update",
+        "signal_stage_state_id": [
+            6,
+            "Closed"
+        ],
+        "signal_stage_state_name": "closed",
+        "verification": "null",
+        "outcome": "discarded",
+        "people_affected": "null",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "closed",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": true,
+        "was_closed_date": "2025-04-09 08:04:16",
+        "was_discarded_date": "2025-02-17 12:38:25",
+        "state_ids_names_string": "DIRE DAWA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Dengue Fever",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            82,
+            "Emerging diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": "null",
+        "is_discarded": true,
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": [
+            33,
+            "Parent Incident is closed"
+        ],
+        "is_event_closed": "closed",
+        "date_closed": "2025-04-09 08:02:58"
+    },
+    {
+        "id": 92,
+        "signal_seq": "Sg00092",
+        "name": "Sg00092, , Food poisoning, [AFAR], [ZONE 2], February, 2025",
+        "title_prefix": "null",
+        "description": "<p>6 cases and 2 deaths reported</p>",
+        "incident_date": "2025-02-13 11:47:52",
+        "report_date": "2025-02-17 11:47:46",
+        "create_date": "2025-02-17 11:49:11",
+        "active": true,
+        "user_id": [
+            644,
+            "BELACHEW, Habtamu"
+        ],
+        "signal_type": "update",
+        "signal_stage_state_id": [
+            3,
+            "Discarded"
+        ],
+        "signal_stage_state_name": "discarded",
+        "verification": "null",
+        "outcome": "discarded",
+        "people_affected": "6",
+        "fatalities": "2",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "discarded",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "2025-02-17 12:38:25",
+        "state_ids_names_string": "AFAR",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Food poisoning",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            85,
+            "Foodborne outbreaks"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "12",
+        "is_triaged": "null",
+        "is_discarded": true,
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": [
+            29,
+            "Doesn't meet signal definition"
+        ],
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 102,
+        "signal_seq": "Sg00102",
+        "name": "Sg00102, confirmed cases of ebola, Ebola Virus Disease (EVD), [SNNP], [GAMO], February, 2025",
+        "title_prefix": "confirmed cases of ebola",
+        "description": "<p></p><p>\nThe regional health authority issues an urgent public health alert, informing nearby communities and healthcare facilities about the situation after a Local health workers collect samples from affected individuals and send them to a national laboratory for testing. Laboratory tests confirm the presence of the Ebola virus.&nbsp;There are currently 100 suspected cases of Ebola, 60 confirmed cases and 20 deaths reported.\n\n</p><p>\n\n</p>",
+        "incident_date": "2025-02-16 16:11:34",
+        "report_date": "2025-02-17 16:11:34",
+        "create_date": "2025-02-17 16:20:29",
+        "active": true,
+        "user_id": [
+            547,
+            "ASHEBIR, Ermias"
+        ],
+        "signal_type": "update",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "100",
+        "fatalities": "20",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "SNNP",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Ebola Virus Disease (EVD)",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            83,
+            "Epidemics and pandemics"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-02-17 16:20:42",
+        "verification_source_id": [
+            10,
+            "partner- WHO- WN"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 103,
+        "signal_seq": "Sg00103",
+        "name": "Sg00103, Cholera, Cholera, [AMHARA], [], February, 2025",
+        "title_prefix": "Cholera",
+        "description": "<p>On Feb 17,2025 Suspected Cholera&nbsp; Cases reported in Amhara</p>",
+        "incident_date": "2025-02-17 04:04:03",
+        "report_date": "2025-02-18 04:04:03",
+        "create_date": "2025-02-18 04:08:01",
+        "active": true,
+        "user_id": [
+            646,
+            "Hunde Merga"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "30",
+        "fatalities": "2",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AMHARA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Cholera",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            90,
+            "Waterborne diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-02-18 04:08:54",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": "null",
+        "ebase_outcome_justification_id": [
+            3,
+            "Risk to Public Health Systems"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 106,
+        "signal_seq": "Sg00106",
+        "name": "Sg00106, , Food poisoning, [DIRE DAWA], [], February, 2025",
+        "title_prefix": "null",
+        "description": "<p>Test shsgdg ashahs</p>",
+        "incident_date": "2025-02-04 06:30:31",
+        "report_date": "2025-02-17 09:12:06",
+        "create_date": "2025-02-18 09:30:37",
+        "active": true,
+        "user_id": [
+            645,
+            "FUFA, Adisu Daba"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            1,
+            "Raw Information"
+        ],
+        "signal_stage_state_name": "info",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "250",
+        "fatalities": "1",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "info",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "DIRE DAWA",
+        "source_country_id": [
+            11,
+            "AMERICAN SAMOA"
+        ],
+        "aetiology_id_Related": "Food poisoning",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            85,
+            "Foodborne outbreaks"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": "null",
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 241,
+        "signal_seq": "Sg00223",
+        "name": "Sg00223, PoE signal, Viral Hemorrhagic  Fever (VHF), [ADDIS ABABA], [BOLE SUB CITY], February, 2025",
+        "title_prefix": "PoE signal",
+        "description": "<p>dfasdf</p>",
+        "incident_date": "2025-02-23 07:07:17",
+        "report_date": "2025-02-26 07:07:16",
+        "create_date": "2025-02-26 07:09:29",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "under_verification",
+        "outcome": "null",
+        "people_affected": "1",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Viral Hemorrhagic  Fever (VHF)",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            83,
+            "Epidemics and pandemics"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 244,
+        "signal_seq": "Sg00226",
+        "name": "Sg00226, measle, Dengue Fever, [ADDIS ABABA], [AKAKI KALITY SUB CITY], March, 2025",
+        "title_prefix": "measle",
+        "description": "<p>dkfvnlsifvh</p>",
+        "incident_date": "2025-03-01 08:33:54",
+        "report_date": "2025-03-25 08:32:43",
+        "create_date": "2025-03-25 08:33:59",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            6,
+            "Closed"
+        ],
+        "signal_stage_state_name": "closed",
+        "verification": "verified",
+        "outcome": "monitored",
+        "people_affected": "1",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "closed",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": true,
+        "was_closed_date": "2025-04-09 07:12:45",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Dengue Fever",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            82,
+            "Emerging diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 06:45:01",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": "null",
+        "ebase_outcome_justification_id": [
+            18,
+            "Unknown Illness"
+        ],
+        "is_event_closed": "closed",
+        "date_closed": "2025-04-09 07:11:25"
+    },
+    {
+        "id": 254,
+        "signal_seq": "Sg00236",
+        "name": "Sg00236, suspected cases of measles from A/ketema, Measles, [], [], April, 2025",
+        "title_prefix": "suspected cases of measles from A/ketema",
+        "description": "<p>A health professional names Mr. X has reported the event to woreda health office upon first detection of the incident</p>",
+        "incident_date": "2025-04-07 06:59:40",
+        "report_date": "2025-04-09 06:59:36",
+        "create_date": "2025-04-09 07:08:13",
+        "active": true,
+        "user_id": [
+            756,
+            "GINDOLA, Yamlak"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            1,
+            "Raw Information"
+        ],
+        "signal_stage_state_name": "info",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "9",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "info",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "Asko HC",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "0",
+        "is_triaged": "null",
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 255,
+        "signal_seq": "Sg00237",
+        "name": "Sg00237, Measles from yeka sub city wereda 5, Measles, [ADDIS ABABA], [YEKA SUB CITY], April, 2025",
+        "title_prefix": "Measles from yeka sub city wereda 5",
+        "description": "<p>5 children from yeka sub city and school nurse are affected from primary school</p>",
+        "incident_date": "2025-04-07 06:59:46",
+        "report_date": "2025-04-09 06:59:45",
+        "create_date": "2025-04-09 07:09:29",
+        "active": true,
+        "user_id": [
+            749,
+            "GEDEFAW, Ergetu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            1,
+            "Raw Information"
+        ],
+        "signal_stage_state_name": "info",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "5",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "info",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": "null",
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 256,
+        "signal_seq": "Sg00238",
+        "name": "Sg00238, suspect cases of measels in yeka subcity,woreda 5, Measles, [ADDIS ABABA], [YEKA SUB CITY], April, 2025",
+        "title_prefix": "suspect cases of measels in yeka subcity,woreda 5",
+        "description": "<p>A school nurse has reported 5 children in her scholl haas fever and rash. Reported on april 7.</p>",
+        "incident_date": "2025-04-07 07:03:26",
+        "report_date": "2025-04-09 06:59:29",
+        "create_date": "2025-04-09 07:09:47",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "4",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_3",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 11:31:06",
+        "verification_source_id": [
+            11,
+            "Lab"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            3,
+            "Risk to Public Health Systems"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 257,
+        "signal_seq": "Sg00239",
+        "name": "Sg00239, suspect cholera case in abado, Measles, [ADDIS ABABA], [KIRKOS SUB CITY], April, 2025",
+        "title_prefix": "suspect cholera case in abado",
+        "description": "<p>school children&nbsp; had fever and skin rush&nbsp;</p>",
+        "incident_date": "2025-04-07 06:58:00",
+        "report_date": "2025-04-09 06:58:00",
+        "create_date": "2025-04-09 07:09:50",
+        "active": true,
+        "user_id": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            3,
+            "Discarded"
+        ],
+        "signal_stage_state_name": "discarded",
+        "verification": "verified",
+        "outcome": "discarded",
+        "people_affected": "40",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "discarded",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "2025-04-09 07:15:21",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": true,
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-04-09 07:14:50",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": "null",
+        "ebase_outcome_justification_id": [
+            13,
+            "N/A"
+        ],
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 258,
+        "signal_seq": "Sg00240",
+        "name": "Sg00240, , Measles, [], [], April, 2025",
+        "title_prefix": "null",
+        "description": "<p>The index case was reported by mr. x from x HC on the date of this...</p>",
+        "incident_date": "2025-04-07 07:08:20",
+        "report_date": "2025-04-09 07:08:20",
+        "create_date": "2025-04-09 07:12:05",
+        "active": true,
+        "user_id": [
+            756,
+            "GINDOLA, Yamlak"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            1,
+            "Raw Information"
+        ],
+        "signal_stage_state_name": "info",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "9",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "info",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "Asko HC",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": "null",
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 260,
+        "signal_seq": "Sg00242",
+        "name": "Sg00242, Measles suspect cases from yeka sub city wereda 5, Measles, [ADDIS ABABA], [YEKA SUB CITY], April, 2025",
+        "title_prefix": "Measles suspect cases from yeka sub city wereda 5",
+        "description": "<p>There are 5 childrens are affected from yeka sub city</p>",
+        "incident_date": "2025-04-06 07:20:22",
+        "report_date": "2025-04-09 07:20:21",
+        "create_date": "2025-04-09 07:25:08",
+        "active": true,
+        "user_id": [
+            749,
+            "GEDEFAW, Ergetu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            1,
+            "Raw Information"
+        ],
+        "signal_stage_state_name": "info",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "5",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "info",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": "null",
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 261,
+        "signal_seq": "Sg00243",
+        "name": "Sg00243, suspected Leishmaniasis cases from Diredawa PoE, Dengue Fever, [DIRE DAWA], [], April, 2025",
+        "title_prefix": "suspected Leishmaniasis cases from Diredawa PoE",
+        "description": "<p>There are 2 children affected with the suspect of leishmaniasis cases which they have travel history</p>",
+        "incident_date": "2025-04-04 08:04:20",
+        "report_date": "2025-04-09 08:04:17",
+        "create_date": "2025-04-09 08:12:20",
+        "active": true,
+        "user_id": [
+            749,
+            "GEDEFAW, Ergetu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            1,
+            "Raw Information"
+        ],
+        "signal_stage_state_name": "info",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "2",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "info",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "DIRE DAWA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Dengue Fever",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            82,
+            "Emerging diseases"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": "null",
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 262,
+        "signal_seq": "Sg00244",
+        "name": "Sg00244, Confirmed Leishmaniasis , Diredewa, unknown, [DIRE DAWA], [DIRE DAWA], April, 2025",
+        "title_prefix": "Confirmed Leishmaniasis , Diredewa",
+        "description": "<p>Laboratory result rK-39 reactive. the case is occur in northern border of Kennya&nbsp;</p>",
+        "incident_date": "2025-04-04 08:04:59",
+        "report_date": "2025-04-05 08:04:59",
+        "create_date": "2025-04-09 08:21:59",
+        "active": true,
+        "user_id": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_type": "update",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "4",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "DIRE DAWA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "unknown",
+        "general_hazard_id": [
+            19,
+            "UNKNOWN"
+        ],
+        "specific_hazard_id": [
+            109,
+            "Unknown"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 265,
+        "signal_seq": "Sg00247",
+        "name": "Sg00247, thsmdm, Measles, [DIRE DAWA, ADDIS ABABA], [KOLFE SUBCITY], April, 2025",
+        "title_prefix": "thsmdm",
+        "description": "<p>ghjsdgbvnm</p>",
+        "incident_date": "2025-04-09 08:26:21",
+        "report_date": "2025-04-09 08:26:20",
+        "create_date": "2025-04-09 08:28:15",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "null",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "DIRE DAWA, ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-04-09 08:28:56",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            5,
+            "Interference with internationa"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 266,
+        "signal_seq": "Sg00248",
+        "name": "Sg00248, Suspected/Cholera case, Cholera, [SNNP], [ZONE 1], February, 2025",
+        "title_prefix": "Suspected/Cholera case",
+        "description": "<p>Clusters of people are experiencing&nbsp; Diarrhea, vomiting&nbsp; from Hawassa Region and have be admitted from hospital&nbsp;</p>",
+        "incident_date": "2025-02-24 08:19:30",
+        "report_date": "2025-04-09 08:19:29",
+        "create_date": "2025-04-09 08:28:36",
+        "active": true,
+        "user_id": [
+            755,
+            "BEYENE, Mihretu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "50",
+        "fatalities": "Hawassa",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "SNNP",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Cholera",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            90,
+            "Waterborne diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 267,
+        "signal_seq": "Sg00249",
+        "name": "Sg00249, Suspected |Cholera cases, Cholera, [GAMBELLA], [], March, 2025",
+        "title_prefix": "Suspected |Cholera cases",
+        "description": "<p>Clusters of people are experiencing diarrhea, vomiting and fever from Gambella Region and have been admitted to Gambella Hospital</p>",
+        "incident_date": "2025-03-03 08:20:08",
+        "report_date": "2025-04-09 08:19:22",
+        "create_date": "2025-04-09 08:28:46",
+        "active": true,
+        "user_id": [
+            759,
+            "Mengesha Asamene"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "50",
+        "fatalities": "Gambella Hospital",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "GAMBELLA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Cholera",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            90,
+            "Waterborne diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 08:44:29",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            3,
+            "Risk to Public Health Systems"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 268,
+        "signal_seq": "Sg00250",
+        "name": "Sg00250, suspect Cholera in afar, Cholera, [AFAR], [ZONE 5], April, 2025",
+        "title_prefix": "suspect Cholera in afar",
+        "description": "<p>A susepct of cholera case in health facility in afar region</p>",
+        "incident_date": "2025-04-01 08:36:47",
+        "report_date": "2025-04-09 08:36:37",
+        "create_date": "2025-04-09 08:39:05",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "1",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AFAR",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Cholera",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            90,
+            "Waterborne diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 08:44:17",
+        "verification_source_id": [
+            11,
+            "Lab"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            3,
+            "Risk to Public Health Systems"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 269,
+        "signal_seq": "Sg00251",
+        "name": "Sg00251, Suspected Cholera case in Gambella region, Cholera, [GAMBELLA], [GAMBELLA TOWN], March, 2025",
+        "title_prefix": "Suspected Cholera case in Gambella region",
+        "description": "<p>50 Suspected Cholera Cases was admitted at Gambella hospital on March 3,2025</p>",
+        "incident_date": "2025-03-03 08:34:25",
+        "report_date": "2025-04-09 08:34:25",
+        "create_date": "2025-04-09 08:51:37",
+        "active": true,
+        "user_id": [
+            767,
+            "TSEHAY, Lina Yezhalem"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "50",
+        "fatalities": "Gambella Hospital",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "GAMBELLA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Cholera",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            90,
+            "Waterborne diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 10:40:45",
+        "verification_source_id": [
+            7,
+            "Other Ministries"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 270,
+        "signal_seq": "Sg00252",
+        "name": "Sg00252, Confirmed Leishmaniasis, unknown, [DIRE DAWA], [DIRE DAWA], April, 2025",
+        "title_prefix": "Confirmed Leishmaniasis",
+        "description": "<p>The cases might be increased rapidly if a possible measurement will not applicable .</p>",
+        "incident_date": "2025-04-05 09:47:44",
+        "report_date": "2025-04-09 09:47:27",
+        "create_date": "2025-04-09 10:17:00",
+        "active": true,
+        "user_id": [
+            744,
+            "TESEMA, Merihatsidik Tesema"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "2",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "DIRE DAWA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "unknown",
+        "general_hazard_id": [
+            19,
+            "UNKNOWN"
+        ],
+        "specific_hazard_id": [
+            109,
+            "Unknown"
+        ],
+        "health_facilities_affected": "Mega Hospital",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 10:23:31",
+        "verification_source_id": [
+            11,
+            "Lab"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            3,
+            "Risk to Public Health Systems"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 271,
+        "signal_seq": "Sg00253",
+        "name": "Sg00253, , unknown, [AMHARA], [], April, 2025",
+        "title_prefix": "null",
+        "description": "<p>The leishmaniasis cases confirmed in addition to Mega Hospital at Diredawa&nbsp;</p>",
+        "incident_date": "2025-04-10 11:36:58",
+        "report_date": "2025-04-09 11:34:56",
+        "create_date": "2025-04-09 11:42:12",
+        "active": true,
+        "user_id": [
+            744,
+            "TESEMA, Merihatsidik Tesema"
+        ],
+        "signal_type": "update",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "30",
+        "fatalities": "6",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AMHARA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "unknown",
+        "general_hazard_id": [
+            19,
+            "UNKNOWN"
+        ],
+        "specific_hazard_id": [
+            109,
+            "Unknown"
+        ],
+        "health_facilities_affected": "Dill Chora Hospital",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-08-04 09:14:02",
+        "verification_source_id": [
+            7,
+            "Other Ministries"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 272,
+        "signal_seq": "Sg00254",
+        "name": "Sg00254, confirmed leishmaniasis, Ebola Virus Disease (EVD), [ADDIS ABABA], [ADDIS KETEMA SUB CITY], April, 2025",
+        "title_prefix": "confirmed leishmaniasis",
+        "description": "<p>&nbsp;the case is highly fatal It needs prevention&nbsp;</p>",
+        "incident_date": "2025-04-05 11:29:37",
+        "report_date": "2025-04-09 08:35:03",
+        "create_date": "2025-04-09 11:48:38",
+        "active": true,
+        "user_id": [
+            758,
+            "DESALEGN, Befikadu Ejigu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "2",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_5",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Ebola Virus Disease (EVD)",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            83,
+            "Epidemics and pandemics"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-04-10 12:25:20",
+        "verification_source_id": [
+            6,
+            "Personal Communication"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 275,
+        "signal_seq": "Sg00257",
+        "name": "Sg00257, Covid 19, COVID-19, [ADDIS ABABA], [], April, 2025",
+        "title_prefix": "Covid 19",
+        "description": "<p>currently reemerging cases&nbsp;</p>",
+        "incident_date": "2025-04-03 11:51:19",
+        "report_date": "2025-04-09 11:49:19",
+        "create_date": "2025-04-09 11:59:07",
+        "active": true,
+        "user_id": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            6,
+            "Closed"
+        ],
+        "signal_stage_state_name": "closed",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "35",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_3",
+        "signal_state_health_interface": "closed",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": true,
+        "was_closed_date": "2025-04-10 05:38:35",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "COVID-19",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            82,
+            "Emerging diseases"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "5",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 12:07:39",
+        "verification_source_id": [
+            11,
+            "Lab"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "closed",
+        "date_closed": "2025-04-10 05:37:39"
+    },
+    {
+        "id": 276,
+        "signal_seq": "Sg00258",
+        "name": "Sg00258, confirmed case leishmaniasis, unknown, [DIRE DAWA], [DIRE DAWA], April, 2025",
+        "title_prefix": "confirmed case leishmaniasis",
+        "description": "<p>There is an increased number of suspected leishmaniasis&nbsp;cases. Two cases were reported, and&nbsp;they are positive&nbsp; visceral leishmaniasis&nbsp;</p>",
+        "incident_date": "2025-04-04 11:52:55",
+        "report_date": "2025-04-09 11:52:54",
+        "create_date": "2025-04-09 12:03:39",
+        "active": true,
+        "user_id": [
+            758,
+            "DESALEGN, Befikadu Ejigu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "2",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_2",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "DIRE DAWA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "unknown",
+        "general_hazard_id": [
+            19,
+            "UNKNOWN"
+        ],
+        "specific_hazard_id": [
+            109,
+            "Unknown"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 12:45:45",
+        "verification_source_id": [
+            11,
+            "Lab"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            3,
+            "Risk to Public Health Systems"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 277,
+        "signal_seq": "Sg00259",
+        "name": "Sg00259, 1st, Ebola Virus Disease (EVD), [ADDIS ABABA], [ARADA SUB CITY], April, 2025",
+        "title_prefix": "1st",
+        "description": "<p>Emergency management&nbsp;</p>",
+        "incident_date": "2025-04-28 11:54:03",
+        "report_date": "2025-04-09 11:54:01",
+        "create_date": "2025-04-09 12:03:40",
+        "active": true,
+        "user_id": [
+            761,
+            "BULTI, Sara"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "45",
+        "fatalities": "Health Center",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Ebola Virus Disease (EVD)",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            83,
+            "Epidemics and pandemics"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 278,
+        "signal_seq": "Sg00260",
+        "name": "Sg00260, Earthquake causing massive destruction in Afar, Earthquake, [AFAR], [ZONE 3], February, 2025",
+        "title_prefix": "Earthquake causing massive destruction in Afar",
+        "description": "<p>An earthquake were happened in Afar region zone 3 on February 25 causing widespread destruction on infrastructures and more than 100 people were died and much more displaced from their homes.</p>",
+        "incident_date": "2025-02-25 12:13:56",
+        "report_date": "2025-04-09 12:13:48",
+        "create_date": "2025-04-09 12:21:40",
+        "active": true,
+        "user_id": [
+            770,
+            "GONFA, Dereje Daba"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "More than 1000",
+        "fatalities": "500",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AFAR",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Earthquake",
+        "general_hazard_id": [
+            10,
+            "GEOPHYSICAL"
+        ],
+        "specific_hazard_id": [
+            55,
+            "Earthquake [G1]"
+        ],
+        "health_facilities_affected": "hbhjbashb",
+        "health_care_workers_affected": "1",
+        "houses_affected": "Buildings and residential areas were Destroyed",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 12:53:46",
+        "verification_source_id": [
+            12,
+            "Social Media"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 281,
+        "signal_seq": "Sg00263",
+        "name": "Sg00263, human illness and deaths, Food poisoning, [SNNP], [SOUTH OMO], April, 2025",
+        "title_prefix": "human illness and deaths",
+        "description": "<p>reported through the&nbsp; national 8335 hotline</p>",
+        "incident_date": "2025-04-07 12:29:22",
+        "report_date": "2025-04-09 12:27:16",
+        "create_date": "2025-04-09 12:35:22",
+        "active": true,
+        "user_id": [
+            744,
+            "TESEMA, Merihatsidik Tesema"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "260",
+        "fatalities": "3",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_3",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "SNNP",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Food poisoning",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            85,
+            "Foodborne outbreaks"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 12:51:14",
+        "verification_source_id": [
+            11,
+            "Lab"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            2,
+            "Unusual Event"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 282,
+        "signal_seq": "Sg00264",
+        "name": "Sg00264, human illness, Food poisoning, [SNNP], [SOUTH OMO], April, 2025",
+        "title_prefix": "human illness",
+        "description": "<p>the affected</p>",
+        "incident_date": "2025-04-09 12:55:24",
+        "report_date": "2025-04-09 12:55:23",
+        "create_date": "2025-04-09 13:00:45",
+        "active": true,
+        "user_id": [
+            744,
+            "TESEMA, Merihatsidik Tesema"
+        ],
+        "signal_type": "update",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "under_verification",
+        "outcome": "null",
+        "people_affected": "300",
+        "fatalities": "30",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_3",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "SNNP",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Food poisoning",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            85,
+            "Foodborne outbreaks"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "5",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 284,
+        "signal_seq": "Sg00266",
+        "name": "Sg00266, update infohghv, Cholera, [GAMBELLA], [], April, 2025",
+        "title_prefix": "update infohghv",
+        "description": "<p>jbjkb,jk.</p>",
+        "incident_date": "2025-04-09 13:16:01",
+        "report_date": "2025-04-09 13:16:00",
+        "create_date": "2025-04-09 13:17:12",
+        "active": true,
+        "user_id": [
+            759,
+            "Mengesha Asamene"
+        ],
+        "signal_type": "related",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "under_verification",
+        "outcome": "null",
+        "people_affected": "12",
+        "fatalities": "4",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "GAMBELLA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Cholera",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            90,
+            "Waterborne diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 285,
+        "signal_seq": "Sg00267",
+        "name": "Sg00267, Food poisoning, Food poisoning, [OROMIYA], [ADAMA SPECIAL ZONE], April, 2025",
+        "title_prefix": "Food poisoning",
+        "description": "<p>Need urgent response&nbsp;</p>",
+        "incident_date": "2025-04-06 13:29:32",
+        "report_date": "2025-04-09 13:29:27",
+        "create_date": "2025-04-09 13:37:21",
+        "active": true,
+        "user_id": [
+            763,
+            "TUFA, Hailu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "10",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_2",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "OROMIYA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Food poisoning",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            85,
+            "Foodborne outbreaks"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-09 13:40:44",
+        "verification_source_id": [
+            11,
+            "Lab"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            2,
+            "Unusual Event"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 286,
+        "signal_seq": "Sg00268",
+        "name": "Sg00268, Dengue fever, Dengue Fever, [AFAR], [ZONE 2], April, 2025",
+        "title_prefix": "Dengue fever",
+        "description": "<p>There is new case of dengue, there were previous case in the area&nbsp;</p>",
+        "incident_date": "2025-04-08 05:54:04",
+        "report_date": "2025-04-10 05:54:02",
+        "create_date": "2025-04-10 05:59:35",
+        "active": true,
+        "user_id": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "20",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": true,
+        "was_closed_date": "2025-04-10 06:29:28",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AFAR",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Dengue Fever",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            82,
+            "Emerging diseases"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-10 06:10:10",
+        "verification_source_id": [
+            11,
+            "Lab"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 287,
+        "signal_seq": "Sg00269",
+        "name": "Sg00269, yellow fever, Yellow Fever Virus (YFV), [SNNP], [AMARO], April, 2025",
+        "title_prefix": "yellow fever",
+        "description": "<p>there is suspected yellow fever cases and deaths in amaro</p>",
+        "incident_date": "2025-04-10 08:36:54",
+        "report_date": "2025-04-10 08:36:52",
+        "create_date": "2025-04-10 08:41:20",
+        "active": true,
+        "user_id": [
+            742,
+            "MEKURIAW, Wondemeneh"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "40",
+        "fatalities": "3",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "SNNP",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Yellow Fever Virus (YFV)",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            83,
+            "Epidemics and pandemics"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-10 08:53:10",
+        "verification_source_id": [
+            6,
+            "Personal Communication"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 288,
+        "signal_seq": "Sg00270",
+        "name": "Sg00270, Flooding, Food poisoning, [ADDIS ABABA], [AKAKI KALITY SUB CITY], April, 2025",
+        "title_prefix": "Flooding",
+        "description": "<p>nxvdvajhxv</p>",
+        "incident_date": "2025-04-10 09:22:09",
+        "report_date": "2025-04-10 09:22:10",
+        "create_date": "2025-04-10 09:24:40",
+        "active": true,
+        "user_id": [
+            647,
+            "DEMEKE, Akalu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "450",
+        "fatalities": "4",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_4",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Food poisoning",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            85,
+            "Foodborne outbreaks"
+        ],
+        "health_facilities_affected": "1",
+        "health_care_workers_affected": "0",
+        "houses_affected": "4",
+        "animals_affected": "56",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 289,
+        "signal_seq": "Sg00271",
+        "name": "Sg00271, flooding, Floods, [ADDIS ABABA], [AKAKI KALITY SUB CITY], April, 2025",
+        "title_prefix": "flooding",
+        "description": "<p>sdcsdvcsdv</p>",
+        "incident_date": "2025-04-10 09:32:00",
+        "report_date": "2025-04-10 09:31:32",
+        "create_date": "2025-04-10 09:32:30",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "update",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "50",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Floods",
+        "general_hazard_id": [
+            11,
+            "HYDROLOGICAL"
+        ],
+        "specific_hazard_id": [
+            56,
+            "Flood"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-04-24 09:38:12",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 291,
+        "signal_seq": "Sg00273",
+        "name": "Sg00273, , Hepatitis A, [BENESHANGUL GUMUZ, ADDIS ABABA], [BOLE SUB CITY], April, 2025",
+        "title_prefix": "null",
+        "description": "<p>eergrggrr</p>",
+        "incident_date": "2025-04-10 06:20:18",
+        "report_date": "2025-04-24 06:20:21",
+        "create_date": "2025-04-24 06:36:34",
+        "active": true,
+        "user_id": [
+            754,
+            "DEREJE, Wendu Dereje"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            3,
+            "Discarded"
+        ],
+        "signal_stage_state_name": "discarded",
+        "verification": "null",
+        "outcome": "discarded",
+        "people_affected": "23",
+        "fatalities": "1",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "discarded",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "BENESHANGUL GUMUZ, ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Hepatitis A",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            83,
+            "Epidemics and pandemics"
+        ],
+        "health_facilities_affected": "rrr",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": true,
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": [
+            29,
+            "Doesn't meet signal definition"
+        ],
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 292,
+        "signal_seq": "Sg00274",
+        "name": "Sg00274, hj, Measles, [GAMBELLA], [NUER], April, 2025",
+        "title_prefix": "hj",
+        "description": "<p>cvbnm</p>",
+        "incident_date": "2025-04-17 09:09:10",
+        "report_date": "2025-04-24 09:09:10",
+        "create_date": "2025-04-24 09:10:33",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "under_verification",
+        "outcome": "null",
+        "people_affected": "1",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "GAMBELLA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 293,
+        "signal_seq": "Sg00275",
+        "name": "Sg00275, , Cholera, [AFAR, ADDIS ABABA], [KOLFE SUBCITY], April, 2025",
+        "title_prefix": "null",
+        "description": "<p>xcvbnm</p>",
+        "incident_date": "2025-04-29 11:38:39",
+        "report_date": "2025-04-24 11:38:39",
+        "create_date": "2025-04-24 11:47:36",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "null",
+        "outcome": "null",
+        "people_affected": "3",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AFAR, ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Cholera",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            90,
+            "Waterborne diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": "null",
+        "verified_date": "null",
+        "verification_source_id": "null",
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 294,
+        "signal_seq": "Sg00276",
+        "name": "Sg00276, , Dengue Fever, [DIRE DAWA], [], April, 2025",
+        "title_prefix": "null",
+        "description": "<p>wqdgdugdyjcgyducg</p>",
+        "incident_date": "2025-04-09 12:57:23",
+        "report_date": "2025-04-24 12:57:26",
+        "create_date": "2025-04-24 13:00:00",
+        "active": true,
+        "user_id": [
+            754,
+            "DEREJE, Wendu Dereje"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "66",
+        "fatalities": "33",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "DIRE DAWA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Dengue Fever",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            82,
+            "Emerging diseases"
+        ],
+        "health_facilities_affected": "uu",
+        "health_care_workers_affected": "ii",
+        "houses_affected": "66",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-24 13:08:04",
+        "verification_source_id": [
+            6,
+            "Personal Communication"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 295,
+        "signal_seq": "Sg00277",
+        "name": "Sg00277, bhj, Measles, [ADDIS ABABA], [ADDIS KETEMA SUB CITY], April, 2025",
+        "title_prefix": "bhj",
+        "description": "<p>xcvbnm</p>",
+        "incident_date": "2025-04-10 13:07:12",
+        "report_date": "2025-04-24 13:07:13",
+        "create_date": "2025-04-24 13:08:06",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "null",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-04-25 08:42:14",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 296,
+        "signal_seq": "Sg00278",
+        "name": "Sg00278, tyu, Measles, [AMHARA], [AWI], May, 2025",
+        "title_prefix": "tyu",
+        "description": "<p>rtyui</p>",
+        "incident_date": "2025-05-20 12:32:48",
+        "report_date": "2025-05-09 12:32:49",
+        "create_date": "2025-05-09 12:34:35",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "null",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AMHARA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-05-09 12:51:43",
+        "verification_source_id": [
+            6,
+            "Personal Communication"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 298,
+        "signal_seq": "Sg00280",
+        "name": "Sg00280, , Anthrax (Animal), [AMHARA], [], May, 2025",
+        "title_prefix": "null",
+        "description": "<p>dfghjk</p>",
+        "incident_date": "2025-05-13 13:37:58",
+        "report_date": "2025-05-12 13:37:58",
+        "create_date": "2025-05-13 06:23:17",
+        "active": true,
+        "user_id": [
+            546,
+            "BESHE, Bezawit"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "null",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AMHARA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Anthrax (Animal)",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            87,
+            "Animal diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-06-11 08:39:49",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 306,
+        "signal_seq": "Sg00288",
+        "name": "Sg00288, Ebola, Hepatitis A, [AFAR, AMHARA], [ZONE 2, NORTH SHEWA], May, 2025",
+        "title_prefix": "Ebola",
+        "description": "<p>Vghjasbkjbkj</p>",
+        "incident_date": "2025-05-29 10:39:07",
+        "report_date": "2025-05-30 10:37:46",
+        "create_date": "2025-05-30 10:41:39",
+        "active": true,
+        "user_id": [
+            647,
+            "DEMEKE, Akalu"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "1",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_4",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AFAR, AMHARA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Hepatitis A",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            83,
+            "Epidemics and pandemics"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "0",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-06-05 09:15:20",
+        "verification_source_id": [
+            9,
+            "FMOH- RRT"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            5,
+            "Interference with internationa"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 307,
+        "signal_seq": "Sg00289",
+        "name": "Sg00289, Suspected MPox Case Reported in North Wollo,Amhara, MPox Virus (MPox), [AMHARA, OROMIYA], [], May, 2025",
+        "title_prefix": "Suspected MPox Case Reported in North Wollo,Amhara",
+        "description": "<p>There were 3 MPox suspected cases reported from the Oromia region</p>",
+        "incident_date": "2025-05-29 18:49:54",
+        "report_date": "2025-05-30 18:47:32",
+        "create_date": "2025-05-30 18:55:13",
+        "active": true,
+        "user_id": [
+            652,
+            "WORKU, Zemene"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "3",
+        "fatalities": "0",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AMHARA, OROMIYA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "MPox Virus (MPox)",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            82,
+            "Emerging diseases"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-05-30 19:02:41",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": [
+            4,
+            "Potential for International Sp"
+        ],
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 309,
+        "signal_seq": "Sg00291",
+        "name": "Sg00291, , MPox Virus (MPox), [AMHARA], [], May, 2025",
+        "title_prefix": "null",
+        "description": "<p>There reported suspected cases are increased to 8 and 2 fatalities are reported as well</p>",
+        "incident_date": "2025-05-30 19:19:29",
+        "report_date": "2025-05-30 19:12:07",
+        "create_date": "2025-05-30 19:23:12",
+        "active": true,
+        "user_id": [
+            652,
+            "WORKU, Zemene"
+        ],
+        "signal_type": "update",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "8",
+        "fatalities": "2",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "AMHARA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "MPox Virus (MPox)",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            82,
+            "Emerging diseases"
+        ],
+        "health_facilities_affected": "0",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-05-30 19:23:49",
+        "verification_source_id": [
+            10,
+            "partner- WHO- WN"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    },
+    {
+        "id": 311,
+        "signal_seq": "Sg00293",
+        "name": "Sg00293, cluster of the Fever and rash cases in Addis Ababa, Measles, [ADDIS ABABA], [ARADA SUB CITY], June, 2025",
+        "title_prefix": "cluster of the Fever and rash cases in Addis Ababa",
+        "description": "<p>there is cluster of fever reported from prisons in&nbsp; the Addis Ababa and dozens of the people were&nbsp; experiencing the fever and headache&nbsp;</p>",
+        "incident_date": "2025-06-01 09:42:20",
+        "report_date": "2025-06-02 09:42:09",
+        "create_date": "2025-06-05 10:02:06",
+        "active": true,
+        "user_id": [
+            746,
+            "ASMAMAW, Mesfin Asmamaw"
+        ],
+        "signal_type": "opening",
+        "signal_stage_state_id": [
+            5,
+            "Incident"
+        ],
+        "signal_stage_state_name": "event",
+        "verification": "verified",
+        "outcome": "event",
+        "people_affected": "12",
+        "fatalities": "12",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "event",
+        "was_event": true,
+        "was_under_verification": "null",
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Measles",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            89,
+            "Airborne  diseases"
+        ],
+        "health_facilities_affected": "12",
+        "health_care_workers_affected": "0",
+        "houses_affected": "0",
+        "animals_affected": "15",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": "null",
+        "is_verified": true,
+        "verified_date": "2025-06-05 12:17:14",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": true,
+        "is_incident": true,
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "current",
+        "date_closed": "null"
+    },
+    {
+        "id": 312,
+        "signal_seq": "Sg00294",
+        "name": "Sg00294, testing, Viral Hemorrhagic  Fever (VHF), [ADDIS ABABA], [GULELE SUB CITY], June, 2025",
+        "title_prefix": "testing",
+        "description": "<p>sxcvbn</p>",
+        "incident_date": "2025-06-03 20:38:35",
+        "report_date": "2025-06-10 20:38:31",
+        "create_date": "2025-06-10 20:50:56",
+        "active": true,
+        "user_id": [
+            647,
+            "DEMEKE, Akalu"
+        ],
+        "signal_type": "update",
+        "signal_stage_state_id": [
+            7,
+            "Relevant"
+        ],
+        "signal_stage_state_name": "relevant",
+        "verification": "verified",
+        "outcome": "null",
+        "people_affected": "88",
+        "fatalities": "null",
+        "address": "null",
+        "latitude": 0.0,
+        "longitude": 0.0,
+        "confidentiality": "level_1",
+        "signal_state_health_interface": "relevant",
+        "was_event": "null",
+        "was_under_verification": true,
+        "was_closed": "null",
+        "was_closed_date": "null",
+        "was_discarded_date": "null",
+        "state_ids_names_string": "ADDIS ABABA",
+        "source_country_id": [
+            69,
+            "ETHIOPIA"
+        ],
+        "aetiology_id_Related": "Viral Hemorrhagic  Fever (VHF)",
+        "general_hazard_id": [
+            12,
+            "BIOLOGICAL"
+        ],
+        "specific_hazard_id": [
+            83,
+            "Epidemics and pandemics"
+        ],
+        "health_facilities_affected": "null",
+        "health_care_workers_affected": "null",
+        "houses_affected": "null",
+        "animals_affected": "null",
+        "is_triaged": true,
+        "is_discarded": "null",
+        "is_verification_initiated": true,
+        "is_verified": true,
+        "verified_date": "2025-06-14 13:49:27",
+        "verification_source_id": [
+            8,
+            "State  MOH"
+        ],
+        "is_risk_assessed": "null",
+        "is_incident": "null",
+        "ebase_outcome_justification_id": "null",
+        "is_event_closed": "null",
+        "date_closed": "null"
+    }
+]
