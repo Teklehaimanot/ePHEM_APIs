@@ -5,10 +5,10 @@ import requests
 app = Flask(__name__)
 
 # Odoo connection config
-URL = "http://localhost:8069/jsonrpc"
-DB = "ephem20"
+URL = "https://ephem.ephi.gov.et/jsonrpc"
+DB = "ephem"
 UID = 2
-PASSWORD = "admin"
+PASSWORD = "9URn*C5R^s*P"
 MODEL_NAME = "aetiology"
 
 FIELDS = [
